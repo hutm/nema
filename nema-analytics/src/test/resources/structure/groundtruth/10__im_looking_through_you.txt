@@ -1,0 +1,7 @@
+0.40054	8.6122	Intro
+8.6122	33.7143	Verse
+33.7143	58.7697	Verse
+58.7697	69.9592	Bridge
+69.9592	96.7017	Verse
+96.7017	107.8683	Bridge
+107.8683	142.498	Verse with Outro (fade-out)

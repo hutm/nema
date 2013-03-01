@@ -1,0 +1,10 @@
+0.4	26.7728	Intro
+26.7728	44.2616	Verse
+44.2616	61.581	Verse
+61.581	79.2188	Refrain
+79.2188	96.0677	Verse (guitar solo)
+96.0677	113.4589	Refrain
+113.4589	130.0906	Verse
+130.0906	147.1702	Refrain
+147.1702	164.257	Refrain
+164.257	224	Outro (fade-out)

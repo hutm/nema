@@ -1,0 +1,9 @@
+0.41796	12.5272	Verse
+12.5272	24.2997	Verse
+24.2997	38.7773	Bridge
+38.7773	50.7704	Verse
+50.7704	62.5783	Verse (Instrumental Solo)
+62.5783	76.8898	Bridge
+76.8898	88.7873	Verse
+88.7873	100.5018	Verse
+100.5018	117.0982	Bridge with ending

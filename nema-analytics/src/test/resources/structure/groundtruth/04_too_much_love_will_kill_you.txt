@@ -1,0 +1,11 @@
+0.19501	13.3587	Intro
+13.3587	39.6184	Verse
+39.6184	65.9163	Verse
+65.9163	88.9837	Refrain
+88.9837	102.1283	BreakA
+102.1283	128.4117	Verse
+128.4117	154.6459	Verse
+154.6459	177.7286	Refrain
+177.7286	184.309	BreakB
+184.309	210.6157	Verse (Instrumental solo)
+210.6157	257.73	Refrain (with complete ending)

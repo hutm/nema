@@ -1,0 +1,8 @@
+0.24	8.5529	Intro
+8.5529	26.8916	Verse
+26.8916	54.199	Refrain
+54.199	76.5329	Verse
+76.5329	94.7221	Verse
+94.7221	121.3632	Refrain
+121.3632	151.2876	Verse (instrumental solo)
+151.2876	169.665	Outro

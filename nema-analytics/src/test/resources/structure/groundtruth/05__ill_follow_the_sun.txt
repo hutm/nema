@@ -1,0 +1,8 @@
+0.4078	3.9837	Intro
+3.9837	18.1812	Verse
+18.1812	32.5312	Verse
+32.5312	46.9398	Bridge
+46.9398	61.3673	Verse
+61.3673	75.7	Verse (half Guitar Solo)
+75.7	90.1878	Bridge
+90.1878	106.4025	Verse

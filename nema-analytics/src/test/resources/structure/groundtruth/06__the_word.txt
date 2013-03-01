@@ -1,0 +1,11 @@
+0.42376	5.3551	Intro
+5.3551	28.7837	Verse
+28.7837	36.649	Bridge
+36.649	60.102	Verse
+60.102	67.9429	Bridge
+67.9429	91.3816	Verse
+91.3816	99.2571	Bridge
+99.2571	122.8957	Verse
+122.8957	130.7592	Bridge (Instrumental)
+130.7592	154.2908	Verse (partly Instrumental)
+154.2908	160.7193	Bridge Outro (fade-out)

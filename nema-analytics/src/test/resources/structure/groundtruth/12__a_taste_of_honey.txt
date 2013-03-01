@@ -1,0 +1,5 @@
+0.41215	8.127	Intro
+8.127	43.8041	Verse
+43.8041	56.898	Bridge
+56.898	92.5224	Verse
+92.5224	120.5046	Bridge with ending

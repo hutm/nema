@@ -1,0 +1,6 @@
+0.31	39.8541	Intro
+39.8541	80.3295	Refrain
+80.3295	84.1592	Break
+84.1592	124.3582	Refrain
+124.3582	154.1312	Bridge
+154.1312	215.955	Refrain (with complete ending)

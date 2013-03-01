@@ -1,0 +1,13 @@
+0.39399	21.7796	Intro
+21.7796	38.9166	First Verse
+38.9166	55.9102	Second Verse
+55.9102	64.4176	Refrain
+64.4176	95.5429	First Verse Variant
+95.5429	112.3002	Second Verse
+112.3002	120.6451	Refrain
+120.6451	145.6163	Intro redux
+145.6163	156.5025	Refrain
+156.5025	173.2673	First Verse
+173.2673	189.6163	Second Verse
+189.6163	197.625	Refrain
+197.625	273.2826	Outro

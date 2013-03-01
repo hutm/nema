@@ -1,0 +1,8 @@
+0.4898	2.4729	Intro
+2.4729	19.9551	Verse
+19.9551	39.4571	Verse'
+39.4571	55.0041	Refrain
+55.0041	72.6122	Verse
+72.6122	92.2045	Verse'
+92.2045	107.698	Refrain
+107.698	127.0364	Verse (Solo) with Ending

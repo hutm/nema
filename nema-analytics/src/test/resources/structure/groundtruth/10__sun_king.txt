@@ -1,0 +1,6 @@
+0	14.3031	Intro
+14.3031	58.8809	Verse (instrumental)
+58.8809	84.3302	Refrain
+84.3302	97.1599	Bridge
+97.1599	109.9602	Refrain'
+109.9602	146.3097	Verse (sung)

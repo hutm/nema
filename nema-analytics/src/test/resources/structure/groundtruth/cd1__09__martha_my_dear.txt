@@ -1,0 +1,8 @@
+0	19.4119	Intro
+19.4119	38.4408	Verse
+38.4408	60.1143	Bridge
+60.1143	80.3265	Bridge Extension
+80.3265	99.8864	Verse (Instrumental)
+99.8864	123.2564	Bridge
+123.2564	142.5241	Verse
+142.5241	147.5076	Outro

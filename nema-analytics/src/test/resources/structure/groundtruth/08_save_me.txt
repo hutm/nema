@@ -1,0 +1,6 @@
+0.62245	47.7635	Verse
+47.7635	71.5513	Refrain
+71.5513	118.5709	Verse
+118.5709	142.2238	Refrain
+142.2238	180.2623	Verse (half instrumental)
+180.2623	225.63	Outro

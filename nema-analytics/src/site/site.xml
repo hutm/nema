@@ -1,0 +1,43 @@
+<project name="NEMA Analytics Library">
+  <publishDate position="right" format="MM-dd-yyyy hh:mm" />
+  <version position="right"/>
+  <bannerLeft>
+    <name>NEMA Analytics Library</name>
+    <src>http://code.google.com/p/nemadiy/logo?logo_id=1262666177</src>
+    <href>http://code.google.com/p/nemadiy</href>
+  </bannerLeft>
+  <bannerRight>
+    <name>NEMA Analytics Library</name>
+    <src>images/analyticslibrary.png</src>
+    <href>index.html</href>
+  </bannerRight>
+
+  <body>
+  
+  
+    <breadcrumbs>
+      <item name="NEMA Development" href="http://nema-dev.lis.illinois.edu:4040/development"/>
+      <item name="Analytics Library" href="index.html"/>
+    </breadcrumbs>
+  <links>
+      <item name="NEMA" href="http://nema.lis.illinois.edu/"/>
+       <item name="NEMA DIY@Googlecode" href="http://code.google.com/p/nemadiy/"/>
+        <item name="NEMA APPS@Googlecode" href="http://code.google.com/p/nema-apps/"/>
+  </links>
+  
+  
+  
+  <menu name="Home">
+  	<item name="Index" href="index.html"/>
+  </menu>
+  <menu name="Reference">
+   <item name="Architecture" href="architecture.html"/>
+   <item name="Developer" href="developer.html"/>
+   <item name="Release Notes" href="release-notes.html"/>
+   <item name="Roadmap" href="roadmap.html"/>
+  </menu>
+  <menu ref="reports" />
+  </body>
+  
+  
+  </project>

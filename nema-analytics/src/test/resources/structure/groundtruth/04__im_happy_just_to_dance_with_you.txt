@@ -1,0 +1,8 @@
+0.35397	14.5821	Intro + Refrain (second half)
+14.5821	29.0249	Verse
+29.0249	43.5951	Verse
+43.5951	58.0506	Refrain
+58.0506	72.5616	Verse
+72.5616	87.1445	Refrain
+87.1445	101.7502	Verse
+101.7502	114.3989	Outro

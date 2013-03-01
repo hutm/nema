@@ -1,0 +1,4 @@
+0	10.4141	Intro
+10.4141	41.0367	Refrain
+41.0367	71.6735	Refrain
+71.6735	99.3891	Refrain (with ending)

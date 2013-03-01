@@ -1,0 +1,7 @@
+0.45	13.5066	Intro
+13.5066	35.8428	Verse
+35.8428	58.2718	Verse
+58.2718	80.6175	Break (Instrumental)
+80.6175	103.034	Break (Instrumental)
+103.034	125.3419	Verse
+125.3419	149.2	Verse/Outro

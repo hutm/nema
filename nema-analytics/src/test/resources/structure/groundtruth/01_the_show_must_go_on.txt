@@ -1,0 +1,11 @@
+1.575	25.9854	Intro
+25.9854	66.1979	Verse
+66.1979	89.8651	Refrain
+89.8651	92.8455	Break
+92.8455	137.3857	Verse
+137.3857	158.3195	Refrain
+158.3195	179.1537	Instrumental solo
+179.1537	196.5196	Bridge
+196.5196	217.4177	Refrain
+217.4177	245.5829	Refrain (with instrumental solo)
+245.5829	274.705	Outro

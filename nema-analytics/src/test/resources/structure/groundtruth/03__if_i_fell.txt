@@ -1,0 +1,6 @@
+0.389	18.9917	Intro
+18.9917	40.9143	Verse (original)
+40.9143	73.8692	Verse + extention
+73.8692	106.9968	Verse + extention
+106.9968	129.2887	Verse (original)
+129.2887	137.1495	Outro

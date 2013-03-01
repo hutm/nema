@@ -1,0 +1,9 @@
+0.97959	22.2912	Intro
+22.2912	42.8978	Verse
+42.8978	70.4958	long connector
+70.4958	87.9184	Bridge
+87.9184	108.6926	Verse (Instrumental)
+108.6926	115.6122	short connector
+115.6122	132.8327	Bridge
+132.8327	153.4375	Verse
+153.4375	162.922	Outro

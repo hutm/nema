@@ -1,0 +1,9 @@
+0.4404	17.9652	intro
+17.9652	35.624	verse_refrain
+35.624	53.6543	verse_refrain
+53.6543	71.7078	verse_refrain
+71.7078	89.1924	bridge
+89.1924	106.7931	guitar_solo
+106.7931	124.8002	verse_refrain
+124.8002	142.8886	verse_refrain
+142.8886	163.4249	refrain

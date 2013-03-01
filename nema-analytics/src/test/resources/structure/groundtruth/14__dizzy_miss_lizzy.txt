@@ -1,0 +1,8 @@
+0.41506	22.384	Intro
+22.384	43.3136	Verse
+43.3136	64.328	Verse Repeat
+64.328	85.4791	Verse (Solo)
+85.4791	106.6463	Verse
+106.6463	127.8939	Verse (Solo) Repeat
+127.8939	149.046	Verse Repeat
+149.046	172.6094	Verse

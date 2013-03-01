@@ -1,0 +1,6 @@
+0	8.8552	Intro
+8.8552	29.5648	Verse
+29.5648	51.7592	Bridge
+51.7592	72.5591	Verse
+72.5591	93.3205	Verse
+93.3205	116.5999	Bridge (with complete ending)

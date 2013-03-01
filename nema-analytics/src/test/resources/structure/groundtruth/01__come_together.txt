@@ -1,0 +1,9 @@
+1.0003	35.8608	Intro/Verse
+35.8608	70.6168	Intro/Verse
+70.6168	76.4869	Refrain
+76.4869	111.2359	Intro/Verse
+111.2359	116.9952	Refrain
+116.9952	145.7166	1/2 Intro/Verse (instrumental)
+145.7166	174.9551	1/2 Intro/Verse
+174.9551	180.8292	Refrain
+180.8292	254.2476	Intro/Outro (fade-out)

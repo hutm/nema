@@ -1,0 +1,20 @@
+							-------------
+							Amit Kumar
+							-------------
+							Architecture
+							-------------
+							2010-04-13
+							-------------
+							
+							
+							
+							
+Code Structure
+    
+    The code architecture is defined by the arrangements of cells. A cell within another indicates <<<Composition>>>. A top down arrangement signifies <<<Layering>>>, 
+    The violations of the layering that break the layering are shown by dotted arrows and these arrows go from bottom to top.
+    
+
+    The code structure is generated using Structure 101 for Java and is the report is available here.
+    
+    Link to {{{http://nema-dev.lis.illinois.edu/s101j/tracker/${project.name}/${project.version}/arch.html} Code Structure}}

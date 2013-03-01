@@ -1,0 +1,8 @@
+3.3755	32.3048	Verse A
+32.3048	61.6328	Verse A
+61.6328	90.8742	Verse B
+90.8742	120.0936	Verse B
+120.0936	147.9527	Verse B
+147.9527	174.4163	Verse C (Guitar Solo)
+174.4163	198.0778	Verse C (Guitar Solo)
+198.0778	237.593	Outro Verse A

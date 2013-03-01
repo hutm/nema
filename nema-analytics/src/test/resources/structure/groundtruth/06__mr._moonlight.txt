@@ -1,0 +1,6 @@
+0.39474	5.549	Intro
+5.549	39.351	Verse (Initial)
+39.351	69.8847	Verse (Variant)
+69.8847	100.4898	Verse (half Vocal	 half Solo)
+100.4898	131.0372	Verse (Variant)
+131.0372	151.9843	Outro Verse (fade-out)

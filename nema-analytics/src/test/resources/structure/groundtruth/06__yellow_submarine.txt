@@ -1,0 +1,8 @@
+0.97959	18.7095	Verse
+18.7095	35.988	Verse
+35.988	53.1737	Refrain
+53.1737	70.5179	Verse
+70.5179	87.6669	Refrain
+87.6669	105.349	Verse (Instrumental)
+105.349	122.5959	Verse
+122.5959	155.1391	Refrian with ending

@@ -1,0 +1,3 @@
+1.4798	15.3806	Refrain (fade-in)
+15.3806	29.2608	Refrain'
+29.2608	50	Refrain'' (fade-out)

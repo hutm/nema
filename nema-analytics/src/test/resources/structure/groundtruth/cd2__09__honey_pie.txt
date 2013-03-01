@@ -1,0 +1,10 @@
+0.3483	39.151	Intro
+39.151	52.751	Verse
+52.751	66.2175	Verse
+66.2175	79.6793	Bridge
+79.6793	92.9959	Verse
+92.9959	106.2313	Verse (Instrumental)
+106.2313	119.3959	Verse (Instrumental)
+119.3959	132.673	Bridge
+132.673	145.9606	Verse
+145.9606	161.3333	End Verse (Instrumental

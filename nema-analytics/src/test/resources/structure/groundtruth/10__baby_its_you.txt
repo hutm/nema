@@ -1,0 +1,4 @@
+0.41406	49.4286	Verse
+49.4286	94.3891	Verse
+94.3891	139.2383	Verse (half Solo)
+139.2383	151.9071	Outro (fade-out)

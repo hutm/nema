@@ -1,0 +1,9 @@
+0.45859	3.8777	Intro
+3.8777	26.8945	Verse (Initial)
+26.8945	49.9926	Verse (Variant 1)
+49.9926	64.1714	Bridge
+64.1714	74.8898	Verse (Variant 2)
+74.8898	98.3481	Verse (Initial)
+98.3481	109.1106	Verse (Variant 2)
+109.1106	123.2341	Bridge
+123.2341	143.1165	Verse (Variant 2 with ending)

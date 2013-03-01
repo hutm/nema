@@ -1,0 +1,8 @@
+0.16	14.3889	Intro
+14.3889	28.4796	Verse
+28.4796	49.4893	Refrain
+49.4893	63.4171	Verse
+63.4171	84.4327	Refrain
+84.4327	112.8178	Bridge
+112.8178	126.8405	Verse
+126.8405	163.575	Refrain (with complete ending)

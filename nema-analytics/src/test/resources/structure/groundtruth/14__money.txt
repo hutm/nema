@@ -1,0 +1,8 @@
+0.45954	15.027	intro
+15.027	37.1324	verse_refrain
+37.1324	59.4236	verse_refrain
+59.4236	81.8657	verse_refrain
+81.8657	96.7497	break
+96.7497	119.2034	verse_refrain
+119.2034	141.599	refrain
+141.599	166.0536	refrain

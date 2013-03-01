@@ -1,0 +1,9 @@
+0.45279	7.709	Intro
+7.709	22.2447	Verse
+22.2447	36.6411	Verse
+36.6411	51.1536	Bridge
+51.1536	65.5673	Verse (Guitar Solo)
+65.5673	80.098	Bridge
+80.098	94.498	Verse
+94.498	108.9143	Verse (Guitar Solo)
+108.9143	117.9652	Outro

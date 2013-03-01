@@ -1,0 +1,8 @@
+0.44118	16.1959	Verse (Instrumental Intro)
+16.1959	31.9714	Verse
+31.9714	47.9434	Bridge
+47.9434	64.1224	Verse
+64.1224	80.2627	Verse (Instrumental Solo)
+80.2627	96.6204	Bridge
+96.6204	112.9714	Verse
+112.9714	122.6939	Outro

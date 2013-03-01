@@ -1,0 +1,10 @@
+0.42041	4.0082	Intro
+4.0082	27.698	Verse
+27.698	44.3755	Refrain
+44.3755	67.5429	Verse
+67.5429	83.9401	Refrain
+83.9401	107.2163	Verse (Instrumental)
+107.2163	123.7507	Refrain
+123.7507	146.8898	Verse (Instrumental)
+146.8898	159.9184	Refrain
+159.9184	176.1085	Outro

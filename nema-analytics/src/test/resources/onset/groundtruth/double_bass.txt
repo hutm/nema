@@ -1,0 +1,8 @@
+#CLASS=Solo_Sustained_Strings
+#ANNOTATORS=chrisd	paul
+0.03	0.0007551
+3.575	3.4777
+5.459	5.446
+7.666	7.5712
+8.367	8.2566
+10.151	10.104

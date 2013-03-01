@@ -1,0 +1,11 @@
+0.36499	28.5283	Intro
+28.5283	43.9853	Verse
+43.9853	59.4438	Refrain
+59.4438	75.0181	Break (guitar solo)
+75.0181	92.6025	Refrain'
+92.6025	108.3381	Break (piano solo)
+108.3381	124.0273	Verse
+124.0273	139.5368	Refrain
+139.5368	155.0541	Break (guitar solo)
+155.0541	170.4728	Refrain'
+170.4728	185.355	Outro

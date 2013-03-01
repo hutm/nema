@@ -1,0 +1,13 @@
+0.19501	55.766	Intro
+55.766	75.049	Verse
+75.049	94.2904	Verse
+94.2904	124.2449	Bridge
+124.2449	154.1878	Refrain
+154.1878	162.7516	Break
+162.7516	181.9918	Verse
+181.9918	211.951	Bridge
+211.951	248.3374	Refrain
+248.3374	286.8187	Instrumental solo
+286.8187	316.775	Bridge (half instrumental solo)
+316.775	340.85	Outro
+340.85	343.4	New Point

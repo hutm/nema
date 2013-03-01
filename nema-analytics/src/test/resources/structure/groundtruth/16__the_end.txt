@@ -1,0 +1,3 @@
+0	34.7523	Part 1
+34.7523	89.0139	Part 2
+89.0139	123.4982	Part 3 (with complete ending)

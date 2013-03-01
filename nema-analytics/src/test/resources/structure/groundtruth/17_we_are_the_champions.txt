@@ -1,0 +1,5 @@
+1.6122	34.2292	Verse
+34.2292	78.0726	Refrain
+78.0726	110.3703	Verse
+110.3703	142.6245	Refrain
+142.6245	179.5	Refrain (with complete ending)

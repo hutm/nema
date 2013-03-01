@@ -1,0 +1,6 @@
+#CLASS=Solo_Bars_And_Bells
+#ANNOTATORS=florent	juan	pierre
+0.153	0.15299	0.15137
+0.695	0.69367	0.69861
+1.23	1.2326	1.2382
+1.87	1.8714	1.876

@@ -1,0 +1,7 @@
+0.41215	13.424	Intro
+13.424	34.6939	Verse
+34.6939	56.0041	Verse
+56.0041	69.12	Bridge
+69.12	90.3306	Verse
+90.3306	109.7085	Bridge (Solo)
+109.7085	137.9445	Verse with ending

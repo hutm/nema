@@ -1,0 +1,9 @@
+0.26	34.3775	Verse
+34.3775	51.1565	Bridge
+51.1565	68.197	Refrain
+68.197	101.7714	Verse
+101.7714	118.2171	Bridge
+118.2171	135.4322	Refrain
+135.4322	168.7594	Pre-chorus
+168.7594	202.403	Refrain (extended)
+202.403	226.975	Refrain (with complete ending)

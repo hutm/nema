@@ -1,0 +1,8 @@
+0.23	35.2286	Intro
+35.2286	66.1336	Verse
+66.1336	89.2033	Refrain
+89.2033	118.2387	Verse
+118.2387	133.6137	Break
+133.6137	164.4538	Verse (half instrumental solo)
+164.4538	187.2044	Refrain
+187.2044	208.88	Outro
