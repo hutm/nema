@@ -58,6 +58,7 @@
         <connection>scm:svn:https://nemadiy.googlecode.com/svn/analytics/trunk</connection>
         <url>https://nemadiy.googlecode.com/svn/analytics/trunk</url>
     </scm>
+
     <organization>
         <name>IMIRSEL Lab Graduate School Library information Science University of Illinois @Urbana Champaign</name>
         <url>http://www.lis.illinois.edu</url>
@@ -95,6 +96,12 @@
                     <downloadJavadocs>true</downloadJavadocs>
                     <wtpversion>1.5</wtpversion>
                 </configuration>
+            </plugin>
+
+            <plugin>
+                <groupId>org.apache.maven.plugins</groupId>
+                <artifactId>maven-release-plugin</artifactId>
+                <version>2.2.2</version>
             </plugin>
         </plugins>
         <resources>
