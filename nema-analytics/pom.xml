@@ -105,7 +105,9 @@
                 <artifactId>maven-release-plugin</artifactId>
                 <configuration>
                     <preparationGoals>clean install deploy</preparationGoals>
+                    <arguments>-Dmaven.test.skip=true</arguments>
                 </configuration>
+
                 <version>2.2.2</version>
             </plugin>
         </plugins>
@@ -144,84 +146,6 @@
     </dependencies>
 
 
-    <profiles>
-        <profile>
-            <id>architecture-check</id>
-            <activation>
-                <activeByDefault>false</activeByDefault>
-            </activation>
-            <build>
-                <plugins>
-                    <plugin>
-                        <groupId>com.structure101.java</groupId>
-                        <artifactId>maven-structure101-plugin</artifactId>
-                        <version>0.5</version>
-                        <!--<configuration>-->
-                        <!--&lt;!&ndash; put your configurations here &ndash;&gt;-->
-                        <!--<project>-->
-                        <!--${project.name}-->
-                        <!--</project>-->
-                        <!--<breakOnError>false</breakOnError>-->
-                        <!--<classpath>${project.build.outputDirectory}</classpath>-->
-                        <!--<key></key>-->
-                        <!--<label>${project.version}</label>-->
-                        <!--<overwrite>true</overwrite>-->
-                        <!--<repository>http://nema-dev.lis.illinois.edu:4040/s101j/data</repository>-->
-                        <!--<rpkey></rpkey>-->
-                        <!--</configuration>-->
-                        <executions>
-                            <execution>
-                                <phase>compile</phase>
-                                <goals>
-                                    <goal>publish</goal>
-                                    <goal>check-architecture</goal>
-                                    <goal>check-xs</goal>
-                                    <goal>report-summary</goal>
-                                </goals>
-                            </execution>
-                        </executions>
-                    </plugin>
-                </plugins>
-            </build>
-        </profile>
 
-        <profile>
-            <id>attach-docs-and-sources</id>
-            <activation>
-                <activeByDefault>true</activeByDefault>
-            </activation>
-            <build>
-                <plugins>
-                    <plugin>
-                        <groupId>org.apache.maven.plugins</groupId>
-                        <artifactId>maven-javadoc-plugin</artifactId>
-                        <executions>
-                            <execution>
-                                <id>attach-javadocs</id>
-                                <goals>
-                                    <goal>jar</goal>
-                                </goals>
-                            </execution>
-                        </executions>
-                    </plugin>
-                    <plugin>
-                        <groupId>org.apache.maven.plugins</groupId>
-                        <artifactId>maven-source-plugin</artifactId>
-                        <executions>
-                            <execution>
-                                <id>attach-sources</id>
-                                <goals>
-                                    <goal>jar</goal>
-                                </goals>
-                            </execution>
-                        </executions>
-                    </plugin>
-
-
-                </plugins>
-            </build>
-
-        </profile>
-    </profiles>
 
 </project>
