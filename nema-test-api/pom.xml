@@ -42,7 +42,7 @@
     <scm>
         <connection>scm:git:git://github.com/hutm/nema.git</connection>
         <developerConnection>scm:git:git@github.com:hutm/nema.git</developerConnection>
-        <url>http://github.com/hutm/nema.git/nema-analytics/</url>
+        <url>http://github.com/hutm/nema.git/nema-test-api/</url>
     </scm>
 
     <issueManagement>

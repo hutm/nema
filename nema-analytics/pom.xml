@@ -55,9 +55,11 @@
 
 
     <scm>
-        <connection>scm:svn:https://nemadiy.googlecode.com/svn/analytics/trunk</connection>
-        <url>https://nemadiy.googlecode.com/svn/analytics/trunk</url>
+        <connection>scm:git:git://github.com/hutm/nema.git</connection>
+        <developerConnection>scm:git:git@github.com:hutm/nema.git</developerConnection>
+        <url>http://github.com/hutm/nema.git/nema-analytics/</url>
     </scm>
+
 
     <organization>
         <name>IMIRSEL Lab Graduate School Library information Science University of Illinois @Urbana Champaign</name>
@@ -101,6 +103,9 @@
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-release-plugin</artifactId>
+                <configuration>
+                    <preparationGoals>clean install deploy</preparationGoals>
+                </configuration>
                 <version>2.2.2</version>
             </plugin>
         </plugins>
