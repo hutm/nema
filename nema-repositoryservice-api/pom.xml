@@ -4,7 +4,7 @@
     <groupId>org.imirsel</groupId>
     <artifactId>nema-repositoryservice-api</artifactId>
     <name>NEMA Repository Service Interface</name>
-    <version>0.4.0</version>
+    <version>0.4.1-SNAPSHOT</version>
     <url>http://code.google.com/p/nemadiy/</url>
     <description>Service Interface for Repository</description>
 
